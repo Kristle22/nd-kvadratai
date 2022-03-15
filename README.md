@@ -6,14 +6,13 @@ This is homework project on CSS inline-block and float property.
 
 Site published at: https://Kristle22.github.io/nd-kvadratai
 
-Design: [KVADRATAI](https://discordapp.com/channels/571393319201144843/950296439051911178/951432466298703943)
+Design: [KVADRATAI](https://cdn.discordapp.com/attachments/950296439051911178/951432465568899082/unknown.png)
 
 ## Project features
 
 -   Github pages
 -   HTML
--   CSS
--   floats
+-   CSS: float, width
 
 ## Authors
 
